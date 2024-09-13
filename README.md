@@ -77,7 +77,7 @@ PlantPedia Z initially built using Android Clean Architecture that follows the m
 
 -   [Detekt](https://detekt.github.io/detekt/): A static code analysis tool for the Kotlin programming language.
 -   [Konsist](https://github.com/LemonAppDev/konsist): A pragmatic lightweight kotlin static analysis library.
--   [Plants vs. Zombies 2 API](https://api-url-placeholder.com): Provides data for plants and zombies (Note: Replace with actual API URL when available).
+-   [Plants vs. Zombies 2 API](https://pvz-2-api.vercel.app/): Provides data for plants and zombies (Note: Replace with actual API URL when available).
 
 ## Module Design
 
