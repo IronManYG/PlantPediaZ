@@ -1,5 +1,5 @@
 plugins {
-    alias(libs.plugins.plantpediaz.android.application)
+    alias(libs.plugins.plantpediaz.android.application.compose)
 }
 
 android {
