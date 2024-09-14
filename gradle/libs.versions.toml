@@ -106,14 +106,14 @@ room = { id = "androidx.room", version.ref = "room" }
 jetbrains-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "org-jetbrains-kotlin-jvm" }
 compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 
-maktabati-android-application = { id = "maktabati.android.application", version = "unspecified" }
-maktabati-android-application-compose = { id = "maktabati.android.application.compose", version = "unspecified" }
-maktabati-android-library = { id = "maktabati.android.library", version = "unspecified" }
-maktabati-android-library-compose = { id = "maktabati.android.library.compose", version = "unspecified" }
-maktabati-android-feature-ui = { id = "maktabati.android.feature.ui", version = "unspecified" }
-maktabati-android-room = { id = "maktabati.android.room", version = "unspecified" }
-maktabati-jvm-library = { id = "maktabati.jvm.library", version = "unspecified" }
-maktabati-jvm-ktor = { id = "maktabati.jvm.ktor", version = "unspecified" }
+plantpediaz-android-application = { id = "plantpediaz.android.application", version = "unspecified" }
+plantpediaz-android-application-compose = { id = "plantpediaz.android.application.compose", version = "unspecified" }
+plantpediaz-android-library = { id = "plantpediaz.android.library", version = "unspecified" }
+plantpediaz-android-library-compose = { id = "plantpediaz.android.library.compose", version = "unspecified" }
+plantpediaz-android-feature-ui = { id = "plantpediaz.android.feature.ui", version = "unspecified" }
+plantpediaz-android-room = { id = "plantpediaz.android.room", version = "unspecified" }
+plantpediaz-jvm-library = { id = "plantpediaz.jvm.library", version = "unspecified" }
+plantpediaz-jvm-ktor = { id = "plantpediaz.jvm.ktor", version = "unspecified" }
 
 [bundles]
 compose = [
