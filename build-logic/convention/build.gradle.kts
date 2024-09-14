@@ -22,5 +22,9 @@ gradlePlugin {
             id = "plantpediaz.android.application.compose"
             implementationClass = "AndroidApplicationComposeConventionPlugin"
         }
+        register("androidLibrary") {
+            id = "plantpediaz.android.library"
+            implementationClass = "AndroidLibraryConventionPlugin"
+        }
     }
 }
