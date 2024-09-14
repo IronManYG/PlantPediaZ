@@ -1,4 +1,4 @@
-package dev.gaddal.plantpediaz.ui.theme
+package dev.gaddal.core.presentation.designsystem.colors
 
 import androidx.compose.ui.graphics.Color
 
