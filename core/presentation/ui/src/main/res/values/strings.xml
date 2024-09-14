@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="error_disk_full">Failed to save the item because your disk is full.</string>
-    <string name="error_permission_denied">You don't have the necessary permissions to perform this action.</string>
+    <string name="error_permission_denied">You don\'t have the necessary permissions to perform this action.</string>
     <string name="error_file_not_found">The specified file or directory cannot be found.</string>
     <string name="error_read_write_failure">There was an issue reading or writing data.</string>
     <string name="error_out_of_memory">The application ran out of available memory.</string>
