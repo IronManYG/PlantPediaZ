@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/encyclopedia" />
             <option value="$PROJECT_DIR$/encyclopedia/data" />
             <option value="$PROJECT_DIR$/encyclopedia/domain" />
+            <option value="$PROJECT_DIR$/encyclopedia/network" />
             <option value="$PROJECT_DIR$/encyclopedia/presentation" />
           </set>
         </option>

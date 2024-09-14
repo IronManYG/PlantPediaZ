@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "dev.gaddal.core.database"
+    namespace = "dev.gaddal.encyclopedia.network"
     compileSdk = 34
 
     defaultConfig {
@@ -36,4 +36,5 @@ dependencies {
     implementation(libs.bundles.koin)
 
     implementation(projects.core.domain)
+    implementation(projects.core.data)
 }
