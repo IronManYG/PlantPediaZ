@@ -80,4 +80,15 @@ dependencies {
 
     // Timber
     implementation(libs.timber)
+
+    implementation(projects.core.presentation.designsystem)
+    implementation(projects.core.presentation.ui)
+    implementation(projects.core.domain)
+    implementation(projects.core.data)
+    implementation(projects.core.database)
+
+    implementation(projects.encyclopedia.presentation)
+    implementation(projects.encyclopedia.domain)
+    implementation(projects.encyclopedia.data)
+    implementation(projects.encyclopedia.network)
 }
