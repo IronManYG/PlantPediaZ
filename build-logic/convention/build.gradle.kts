@@ -34,5 +34,9 @@ gradlePlugin {
             id = "plantpediaz.android.feature.ui"
             implementationClass = "AndroidFeatureUiConventionPlugin"
         }
+        register("androidRoom") {
+            id = "plantpediaz.android.room"
+            implementationClass = "AndroidRoomConventionPlugin"
+        }
     }
 }
