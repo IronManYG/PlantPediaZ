@@ -38,5 +38,9 @@ gradlePlugin {
             id = "plantpediaz.android.room"
             implementationClass = "AndroidRoomConventionPlugin"
         }
+        register("jvmLibrary") {
+            id = "plantpediaz.jvm.library"
+            implementationClass = "JvmLibraryConventionPlugin"
+        }
     }
 }
