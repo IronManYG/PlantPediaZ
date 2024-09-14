@@ -1,5 +1,6 @@
 plugins {
     alias(libs.plugins.plantpediaz.android.application.compose)
+    alias(libs.plugins.plantpediaz.jvm.ktor)
 }
 
 android {

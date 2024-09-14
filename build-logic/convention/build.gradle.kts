@@ -42,5 +42,9 @@ gradlePlugin {
             id = "plantpediaz.jvm.library"
             implementationClass = "JvmLibraryConventionPlugin"
         }
+        register("jvmKtor") {
+            id = "plantpediaz.jvm.ktor"
+            implementationClass = "JvmKtorConventionPlugin"
+        }
     }
 }
