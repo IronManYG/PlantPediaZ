@@ -21,3 +21,11 @@ dependencyResolutionManagement {
 
 rootProject.name = "PlantPedia Z"
 include(":app")
+include(":core:data")
+include(":core:database")
+include(":core:domain")
+include(":core:presentation:designsystem")
+include(":core:presentation:ui")
+include(":encyclopedia:data")
+include(":encyclopedia:domain")
+include(":encyclopedia:presentation")
