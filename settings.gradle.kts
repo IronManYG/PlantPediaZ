@@ -1,4 +1,5 @@
 pluginManagement {
+    includeBuild("build-logic")
     repositories {
         google {
             content {
@@ -19,5 +20,15 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PlantPedia Z"
+rootProject.name = "PlantPediaZ"
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 include(":app")
+include(":core:data")
+include(":core:database")
+include(":core:domain")
+include(":core:presentation:designsystem")
+include(":core:presentation:ui")
+include(":encyclopedia:data")
+include(":encyclopedia:domain")
+include(":encyclopedia:network")
+include(":encyclopedia:presentation")
